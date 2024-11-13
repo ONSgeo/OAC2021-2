@@ -1,3 +1,5 @@
+# Note: Not currently being developed. New space for development - https://github.com/ONSgeo/Output_Area_Classification
+
 # OAC-2021/2
 
 Creation of the **2021/2 Output Area Classification**
